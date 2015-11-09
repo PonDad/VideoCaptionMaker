@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <meta content="width=device-width,initial-scale=1.0,user-scalable=no" name=
+  "viewport">
+
+  <title>Video Caption Maker</title>
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/font-awesome.min.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="css/MyFontsWebfontsKit.css">
+</head>
+
+<body>
+  <h1 class="text-center">Video Caption Maker</h1>
+
+  <article class="article">
+    <h2><i class="fa fa-film fa-fw"></i> Choose Video</h2>
+    
+    <span class=
+    "btn btn-default btn-file button"><i class="fa fa-folder-open fa-fw"></i>
+    Choose File <input id="file" type="file"></span>
+
+    <div class="row">
+      <div class="col-xs-12 col-sm-9">
+        <video id="video" controls width="100%" poster="img/poster.png">
+        <source src="http://html5-pondad.net/captionmaker/tutorial/mp4">
+        <track label="English" kind="caption" src="" srclang="en" default></track>
+      </video>
+
+        <h2>
+      <i class="fa fa-pencil-square-o fa-fw"></i>Write VTT
+      </h2>
+      <textarea id="content" class="form-control" rows="18">
+WEBVTT
+
+1
+00:00.000 --> 00:02.000 
+Welcome to Video Caption Maker .
+
+2
+00:03.000 --> 00:07.000
+We will select the movie in the " select a file " .
+
+3
+00:11.000 --> 00:15.000
+It will be reflected in the caption video in the " save " button .
+
+4
+00:17.000 --> 00:25.000
+Write the caption to "text area" .
+
+5
+00:31.000 --> 00:36.000
+Caption will be overwritten with the " save " button .
+
+6
+00:38.000 --> 00:42.000
+Finely adjust the position in the navigation .
+
+7
+00:48.000 --> 00:52.000
+It will "download" after the "Save" .
+
+8
+01:00.000 --> 01:04.000
+WebVTT file has been downloaded .</textarea>
+      <div class="button">
+      <a class="btn btn-default" role="button" id="reload">
+        <i class="fa fa-floppy-o fa-fw"></i>Save VTT
+      </a>
+      </div>
+      
+      
+
+        <h2 class="download"><i class="fa fa-download fa-fw"></i> Please Download</h2>
+<div class="button button-dl">
+        <a class="btn btn-default" role="button" target="_blank" download="caption.vtt" id="download">
+        <i class="fa fa-download fa-fw"></i>Download
+      </a>
+      </div>
+      </div>
+
+      <div class="hidden-xs col-sm-3">
+        <div class="btn-group-vertical">
+          <button class="btn btn-default" id="play" type="button"><i class=
+          "fa fa-play fa-fw"></i> Play</button> <button class="btn btn-default"
+          id="pause" type="button"><i class="fa fa-pause fa-fw"></i>
+          Pause</button> <button class="btn btn-default" id="reset" type=
+          "button"><i class="fa fa-stop fa-fw"></i> Reset</button>
+          <button class="btn btn-default" id="skip" type="button"><i class=
+          "fa fa-fast-forward fa-fw"></i> Skip(1s)</button> <button class=
+          "btn btn-default" id="back" type="button"><i class=
+          "fa fa-fast-backward fa-fw"></i> Back(1s)</button>
+        </div>
+
+        <ul class="list-group">
+          <li class="list-group-item" id="now">Current Time：</li>
+
+          <li class="list-group-item" id="all">Total Time：</li>
+        </ul>
+      </div>
+    </div>
+  </article>
+  <hr>
+
+  <footer class="text-center">
+    <small>&#169; 2015 PonDad All Rights Reserved.</small>
+  </footer>
+  <script src="js/jquery.js"></script> 
+  <script src="js/main.js"></script>
+</body>
+</html>

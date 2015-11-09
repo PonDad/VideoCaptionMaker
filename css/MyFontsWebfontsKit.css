@@ -1,0 +1,70 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3111284, 2015-10-20T23:43:24-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: LondrinaBlack-Regular by Tipos Pereira
+ * URL: http://www.myfonts.com/fonts/tipos-pereira/londrina/black/
+ * Copyright: Copyright (c) 2011 by Marcelo Magalh&#x00E3;es (marcelomagalhaes.net), with Reserved Font Name &#x0022;Londrina Black&#x0022;
+ * 
+ * Webfont: LondrinaBook-Regular by Tipos Pereira
+ * URL: http://www.myfonts.com/fonts/tipos-pereira/londrina/book/
+ * Copyright: Copyright (c) 2011 by Marcelo Magalh&#x00E3;es (marcelomagalhaes.net), with Reserved Font Name &#x0022;Londrina Book&#x0022;
+ * 
+ * Webfont: LondrinaOutline-Regular by Tipos Pereira
+ * URL: http://www.myfonts.com/fonts/tipos-pereira/londrina/outline/
+ * Copyright: Copyright (c) 2011 by Marcelo Magalh&#x00E3;es (marcelomagalhaes.net), with Reserved Font Name &#x0022;Londrina Outline&#x0022;
+ * 
+ * Webfont: LondrinaShadow-Regular by Tipos Pereira
+ * URL: http://www.myfonts.com/fonts/tipos-pereira/londrina/shadow/
+ * Copyright: Copyright (c) 2011 by Marcelo Magalh&#x00E3;es (marcelomagalhaes.net), with Reserved Font Name &#x0022;Londrina Shadow&#x0022;
+ * 
+ * Webfont: LondrinaSketche-Regular by Tipos Pereira
+ * URL: http://www.myfonts.com/fonts/tipos-pereira/londrina/sketche/
+ * Copyright: Copyright (c) 2011 by Marcelo Magalh&#x00E3;es (marcelomagalhaes.net), with Reserved Font Name &#x0022;Londrina Sketche&#x0022;
+ * 
+ * Webfont: LondrinaSolid-Regular by Tipos Pereira
+ * URL: http://www.myfonts.com/fonts/tipos-pereira/londrina/solid/
+ * Copyright: Copyright (c) 2011 by Marcelo Magalh&#x008B;es (marcelomagalhaes.net), with Reserved Font Name &#x0022;Londrina Solid&#x0022;
+ * 
+ * Webfont: LondrinaThin-Regular by Tipos Pereira
+ * URL: http://www.myfonts.com/fonts/tipos-pereira/londrina/thin/
+ * Copyright: Copyright (c) 2011 by Marcelo Magalh&#x00E3;es (marcelomagalhaes.net), with Reserved Font Name &#x0022;Londrina Thin&#x0022;
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3111284
+ * Licensed pageviews: 10,000
+ * 
+ * © 2015 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/2f7974");
+
+  
+@font-face {font-family: 'LondrinaBlack-Regular';src: url('webfonts/2F7974_0_0.eot');src: url('webfonts/2F7974_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2F7974_0_0.woff2') format('woff2'),url('webfonts/2F7974_0_0.woff') format('woff'),url('webfonts/2F7974_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'LondrinaBook-Regular';src: url('webfonts/2F7974_1_0.eot');src: url('webfonts/2F7974_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2F7974_1_0.woff2') format('woff2'),url('webfonts/2F7974_1_0.woff') format('woff'),url('webfonts/2F7974_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'LondrinaOutline-Regular';src: url('webfonts/2F7974_2_0.eot');src: url('webfonts/2F7974_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2F7974_2_0.woff2') format('woff2'),url('webfonts/2F7974_2_0.woff') format('woff'),url('webfonts/2F7974_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'LondrinaShadow-Regular';src: url('webfonts/2F7974_3_0.eot');src: url('webfonts/2F7974_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2F7974_3_0.woff2') format('woff2'),url('webfonts/2F7974_3_0.woff') format('woff'),url('webfonts/2F7974_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'LondrinaSketche-Regular';src: url('webfonts/2F7974_4_0.eot');src: url('webfonts/2F7974_4_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2F7974_4_0.woff2') format('woff2'),url('webfonts/2F7974_4_0.woff') format('woff'),url('webfonts/2F7974_4_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'LondrinaSolid-Regular';src: url('webfonts/2F7974_5_0.eot');src: url('webfonts/2F7974_5_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2F7974_5_0.woff2') format('woff2'),url('webfonts/2F7974_5_0.woff') format('woff'),url('webfonts/2F7974_5_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'LondrinaThin-Regular';src: url('webfonts/2F7974_6_0.eot');src: url('webfonts/2F7974_6_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2F7974_6_0.woff2') format('woff2'),url('webfonts/2F7974_6_0.woff') format('woff'),url('webfonts/2F7974_6_0.ttf') format('truetype');}
+ 
