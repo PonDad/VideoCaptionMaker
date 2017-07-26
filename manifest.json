@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Video Caption Maker",
     "description": "App to HTML5 Video Caption Maker",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "app": {
      "background": {
             "scripts": [
