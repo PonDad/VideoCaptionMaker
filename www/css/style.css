@@ -3,6 +3,7 @@ html,body{
 		    background-color: #f6f6f6;
 		    margin: 0 auto;
 		    font-family: sans-serif;
+				overflow-y: scroll;
 	}
 	.article{
 	padding: 0 20px;

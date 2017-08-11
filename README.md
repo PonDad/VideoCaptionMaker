@@ -6,13 +6,13 @@ It is an application that can make a caption to be inserted into the video eleme
 Complete the WebVTT caption to match the video timeline, you can download.
 Caption can also be uploaded to the YouTube.
 
-ver 2.1 update bug fix.
+ver 2.2.0 update bug fix.
 
 HTML５のvideo要素に挿入する字幕を作れるアプリです。
 動画のタイムラインに合わせてWebVTT字幕を記入して、ダウンロードすることが出来ます。
 WebVTTはYouTubeなどにアップロードすることも可能です。
 
-バージョン2.1　バクを修正しました。
+バージョン2.2.0　バクを修正しました。
 
 ----------
 
